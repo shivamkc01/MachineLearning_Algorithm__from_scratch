@@ -9,26 +9,6 @@ It may be considered one of the first and one of the simplest types of artificia
 
 Like logistic regression, it can quickly learn a linear separation in feature space for two-class classification tasks, although unlike logistic regression, it learns using the stochastic gradient descent optimization algorithm and does not predict calibrated probabilities.
 
-In this tutorial, you will discover the Perceptron classification machine learning algorithm.
-
-After completing this tutorial, you will know:
-
-The Perceptron Classifier is a linear algorithm that can be applied to binary classification tasks.
-How to fit, evaluate, and make predictions with the Perceptron model with Scikit-Learn.
-How to tune the hyperparameters of the Perceptron algorithm on a given dataset.
-Let’s get started.
-
-Perceptron Algorithm for Classification in Python
-Perceptron Algorithm for Classification in Python
-Photo by Belinda Novika, some rights reserved.
-
-Tutorial Overview
-This tutorial is divided into 3=three parts; they are:
-
-Perceptron Algorithm
-Perceptron With Scikit-Learn
-Tune Perceptron Hyperparameters
-Perceptron Algorithm
 The Perceptron algorithm is a two-class (binary) classification machine learning algorithm.
 
 It is a type of neural network model, perhaps the simplest type of neural network model.
